@@ -1,6 +1,6 @@
 # qbit
 
-Blocks for LewanSoul Qbit
+Qbit 확장 패키지
 
 ## License
 
@@ -12,6 +12,6 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-qbit=github:LewanSoul2018/Qbit
+qbit=github:MakeSQ/Qbit
 ```
 
