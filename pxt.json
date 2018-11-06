@@ -12,7 +12,7 @@
         "QbitRGBLight.ts",
         "sendbuffer.asm",
         "_locales/ko/qbit-strings.json",
-        "_locales/koh/qbit-jsdoc-strings.json",
+        "_locales/ko/qbit-jsdoc-strings.json",
         "_locales/zh/qbit-strings.json",
         "_locales/zh/qbit-jsdoc-strings.json"
     ],
