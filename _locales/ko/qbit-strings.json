@@ -73,10 +73,10 @@
   "qbit.setExtsIO|block": "|%ext|을 %iostatus로 정하기",
   "qbit.setMotorSpeed|block": "모터 속도 정하기 : 왼쪽 모터 |%speed1| 오른쪽 모터 %speed2",
   "qbit.setPixelRGBArgs|block": "|%lightoffset|의 색을 %rgb로 정하기",
-  "qbit.setPixelRGB|block": "|%lightoffset|을 %rgb색으로 정하기",
+  "qbit.setPixelRGB|block": "|%lightoffset|을 %rgb으로 정하기",
   "qbit.setQbitRun|block": "밸런싱봇 설정 %runType",
   "qbit.showLight|block": "LED 켜기",
   "qbit|block": "qbit",
-  "{id:category}Qbit": "balancingBot",
+  "{id:category}Qbit": "밸런싱봇",
   "{id:category}QbitRGBLight": "QbitRGBLight"
 }
