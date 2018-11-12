@@ -77,6 +77,6 @@
   "qbit.setQbitRun|block": "밸런싱봇 설정 %runType",
   "qbit.showLight|block": "LED 켜기",
   "qbit|block": "qbit",
-  "{id:category}Qbit": "밸런싱봇",
+  "{id:category}Qbit": "밸런싱:봇",
   "{id:category}QbitRGBLight": "QbitRGBLight"
 }
