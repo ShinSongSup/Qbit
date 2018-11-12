@@ -1,7 +1,7 @@
 {
-    "name": "qbit",
+    "name": "balancing:Bot",
     "version": "0.0.1",
-    "description": "balancingBot을 위한 확장 패키지입니다.",
+    "description": "balancing:Bot을 위한 확장 패키지입니다.",
     "license": "MIT",
     "dependencies": {
         "core": "*"
